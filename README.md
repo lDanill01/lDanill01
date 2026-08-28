@@ -1,6 +1,5 @@
 # Danillo Araújo 👋
-
-**Product Manager · Analytics Engineer · Applied AI**
+**Analytics Engineer · Applied AI**
 
 Transformo **dados, tecnologia e inteligência artificial em produtos e soluções que reduzem incertezas, aumentam eficiência e aceleram decisões**.
 
@@ -17,12 +16,6 @@ Meu trabalho combina visão de negócio e execução técnica: **da definição 
 > **Problema → Dados → Modelagem → Automação/IA → Produto → Decisão**
 
 Tenho experiência na construção de soluções de dados, aplicações web, automações e produtos orientados por IA, com foco em transformar problemas reais de negócio em soluções **mensuráveis, escaláveis e acionáveis**.
-
-📍 Baseado em **Campo Grande — MS**  
-🧑‍💻 **Innovation Analyst — Federação das Indústrias de Mato Grosso do Sul**  
-🧑‍💻 **Analytics Engineer — ADM do Brasil S/A**  
-🗂️ Integro gestão de produto com **Python/Django, engenharia de dados, analytics engineering, SQL, BI e IA aplicada**  
-🌱 Aprofundando estudos e projetos em **agentes de IA, LangChain/LangGraph, arquitetura multi-tenant e engenharia de dados**
 
 ---
 
@@ -54,7 +47,7 @@ O objetivo não é apenas produzir código, dashboards ou modelos. É **construi
 
 ## 🎯 Meu posicionamento
 
-**Product Manager com profundidade técnica em dados e engenharia.**
+**Profundidade técnica em dados e engenharia.**
 
 Minha principal vantagem está em conectar três dimensões que normalmente aparecem separadas:
 
